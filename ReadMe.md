@@ -13,6 +13,5 @@ Hi, I’m Shagun Sirohi – a passionate Computer Science student at Galgotias U
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imshagunnn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=imshagunnn&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
